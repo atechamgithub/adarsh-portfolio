@@ -22,11 +22,11 @@ This project showcases my skills, projects, and experience as a developer in a c
 
 📸 Screenshots
 
-![<img width="1882" height="886" alt="Screenshot 2026-02-08 050905" src="https://github.com/user-attachments/assets/f04da409-df70-4dea-bc81-3422f13a3be3" />
-]
+<img width="1882" height="886" alt="Screenshot 2026-02-08 050905" src="https://github.com/user-attachments/assets/f04da409-df70-4dea-bc81-3422f13a3be3" />
 
-![<img width="1909" height="906" alt="Screenshot 2026-02-08 051005" src="https://github.com/user-attachments/assets/8b47b1b2-ede7-4e50-87a6-1354f68ade09" />
-]
+
+<img width="1909" height="906" alt="Screenshot 2026-02-08 051005" src="https://github.com/user-attachments/assets/8b47b1b2-ede7-4e50-87a6-1354f68ade09" />
+
 
 
 ## 🛠️ Tech Stack
