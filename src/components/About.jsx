@@ -2,6 +2,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { User, Target, Zap, Heart, Award, Mic } from 'lucide-react';
+import AdarshProfile from '../assets/Professional Photo.jpg';
 
 const About = () => {
     return (
@@ -18,8 +19,8 @@ const About = () => {
                     >
                         <div className="relative z-10 aspect-[4/5] rounded-[2.5rem] md:rounded-[3rem] overflow-hidden glass-dark border-white/5 p-3 md:p-4">
                             <img
-                                src="src/assets/Professional Photo.jpg"
-                                alt="Adarsh Profile"
+                                src={AdarshProfile}
+                                alt="AdarshProfile"
                                 className="w-full h-full object-cover rounded-[1.5rem] md:rounded-[2rem] grayscale hover:grayscale-0 transition-all duration-700 ease-in-out"
                             />
                             {/* Experience Badge */}
