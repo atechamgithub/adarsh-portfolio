@@ -15,7 +15,7 @@ const projects = [
         category: 'Security',
         description: 'A full-stack web application that provides a secure and seamless authentication experience for modern web and mobile platforms',
         tags: ['React', 'Node.js', 'Express', 'MongoDB', 'JWT'],
-        image: {Authpic},
+        image: Authpic,
         color: 'from-violet-600 to-purple-600',
     },
     {
@@ -23,7 +23,7 @@ const projects = [
         category: 'Entertainment',
         description: 'A full-stack web application for exploring IMDb Top 250 movies, featuring a robust backend with lazy processing and a modern React-based frontend.',
         tags: ['Node.js', 'Express', 'React', 'MongoDB' ,'JWT',],
-        image: {MovieApp},
+        image: MovieApp,
         color: 'from-blue-600 to-indigo-600',
     },
     {
@@ -31,7 +31,7 @@ const projects = [
         category: 'E-Commerce',
         description: 'A modern e-commerce web application built with React, Vite, TailwindCSS, and Features user authentication, shopping cart management, and a clean, responsive interface.',
         tags: ['React', 'Vite', 'TailwindCSS', 'Node.js', 'Express', 'MongoDB','Axios','Framer Motion','Lucide React'],
-        image: {LuxeStore},
+        image: LuxeStore,
         color: 'from-emerald-600 to-cyan-600',
     },
     
@@ -40,7 +40,7 @@ const projects = [
         category: 'Job Portal',
         description: 'A full-stack job portal application that connects job seekers with recruiters. Built with React, Node.js, Express, and MySQL.',
         tags: ['React', 'Node.js', 'Express', 'MySQL', 'JWT','Bcrypt', 'Axios'],
-        image: {SmartJob},
+        image: SmartJob,
         color: 'from-rose-600 to-pink-600',
     },
     {
@@ -48,7 +48,7 @@ const projects = [
         category: 'Store Management',
         description: 'This is a REST API for the BookLeaf simplified author royalty system, built with Node.js and Express.',
         tags: ['Node.js', 'Express'],
-        image: {BookStore},
+        image: BookStore,
         color: 'from-amber-500 to-orange-600',
     },
     {
@@ -56,7 +56,7 @@ const projects = [
         category: 'MedTech',
         description: 'A comprehensive healthcare platform for managing patient records, appointments, and medical history.',
         tags: ['React.js', 'Tailwind css'],
-        image: {BeCare},
+        image: BeCare,
         color: 'from-indigo-600 to-blue-600',
     },
 ];
