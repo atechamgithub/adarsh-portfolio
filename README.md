@@ -34,6 +34,7 @@ This project showcases my skills, projects, and experience as a developer in a c
 **Frontend**
 - React.js
 -  TailwindCSS
+-  Email.js
 
 **Other Tools**
 - Git & GitHub
@@ -42,22 +43,6 @@ This project showcases my skills, projects, and experience as a developer in a c
 
 ---
 
-## 📁 Folder Structure
-
-portfolio-website/
-│
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── assets/
-│ ├── images/
-│ └── icons/
-└── README.md
-
-
-*(Adjust based on your project structure)*
 
 ---
 
