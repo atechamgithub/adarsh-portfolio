@@ -4,6 +4,7 @@ Welcome to my personal portfolio website!
 This project showcases my skills, projects, and experience as a developer in a clean and interactive way.
 
 🔗 **Live Demo:**  https://adarsh-portfolio-el525f13t-adarshs-projects-31f41931.vercel.app/
+
 📂 **Repository:** https://github.com/atechamgithub/adarsh-portfolio
 
 ---
@@ -21,10 +22,12 @@ This project showcases my skills, projects, and experience as a developer in a c
 
 📸 Screenshots
 
-![Home Page](<img width="1882" height="886" alt="Screenshot 2026-02-08 050905" src="https://github.com/user-attachments/assets/2ca67b44-c606-4411-941c-d4b2db068046" />
-)
-![Projects Section](<img width="1909" height="906" alt="Screenshot 2026-02-08 051005" src="https://github.com/user-attachments/assets/32ba1902-67b7-4459-8161-10e4c72c9195" />
-)
+![<img width="1882" height="886" alt="Screenshot 2026-02-08 050905" src="https://github.com/user-attachments/assets/f04da409-df70-4dea-bc81-3422f13a3be3" />
+]
+
+![<img width="1909" height="906" alt="Screenshot 2026-02-08 051005" src="https://github.com/user-attachments/assets/8b47b1b2-ede7-4e50-87a6-1354f68ade09" />
+]
+
 
 ## 🛠️ Tech Stack
 
