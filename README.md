@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This project showcases my skills, projects, and experience as a developer in a clean and interactive way.
 
-🔗 **Live Demo:**  https://adarsh-portfolio-el525f13t-adarshs-projects-31f41931.vercel.app/
+🔗 **Live Demo:**  https://adarsh-portfolio-omega.vercel.app/
 
 📂 **Repository:** https://github.com/atechamgithub/adarsh-portfolio
 
